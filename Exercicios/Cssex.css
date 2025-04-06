@@ -1,0 +1,54 @@
+/* ExCSS01
+
+.header {
+    background-color: rgb(0, 89, 255);
+    color: aliceblue;
+    font-size: 23px;
+    margin: 0;
+}
+
+p {
+    margin-top: 0;
+    font-size: 30px;
+}
+
+.body {
+    background-color: rgb(255, 0, 0);
+}
+
+.foot {
+    background-color: grey;
+    width: 90px;
+    color: greenyellow;
+}*/
+
+/* ExTabela05
+
+body {
+    margin: 0;
+}
+
+table {
+    border: 5px solid black;
+    border-collapse: collapse;
+    width: 700px;
+    height: 300px;
+    margin: 0;
+}
+
+td,th {
+    border: 1px solid black;
+    font-size: 22px;
+    padding: 10px;
+}
+
+th {
+    font-size: 30px;
+    border: 3px solid;
+}*/
+
+/*ExTabela06*/
+
+.tabela {
+    width: 600px;    
+}
