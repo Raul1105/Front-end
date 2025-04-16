@@ -47,8 +47,78 @@ th {
     border: 3px solid;
 }*/
 
-/*ExTabela06*/
+/*ExTabela06
 
 .tabela {
     width: 600px;    
+}*/
+
+/*ExCss04
+
+#rodape {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #00ff11;
+    color: white;
+}*/
+
+/*ExCSS05*/
+
+#menu {
+    background-color: rgba(0, 0, 200, 0.877);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    
 }
+
+#menu a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px;
+}
+
+#menu li ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    background-color: rgba(0, 0, 200, 0.877);
+    left: 0;
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    width: 150px;
+}
+
+.teste {
+    display: inline-block;
+    position: relative;
+}
+
+.menu2 {
+    display: none;
+    background-color: rgba(0, 0, 200, 0.877);
+    position: relative;
+    left: 70px;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    list-style: none;
+}
+
+.menu2 a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    display:block;
+}
+
+#menu li:hover .menu2 {
+    display: block;
+}
+
