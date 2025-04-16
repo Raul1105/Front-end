@@ -47,6 +47,7 @@ th {
     border: 3px solid;
 }*/
 
+<<<<<<< HEAD
 /*ExTabela06
 
 .tabela {
@@ -122,3 +123,34 @@ th {
     display: block;
 }
 
+=======
+/* ExTabela06
+.nroxo {
+    background-color: rgba(137, 43, 226, 0.459);
+}
+
+.nverde {
+    background-color: rgba(34, 170, 0, 0.445);
+}
+
+.namarelo {
+    background-color: rgba(255, 255, 0, 0.425);
+}*/
+
+/*ExTabela06*/
+
+.tabela {
+    width: 600px;    
+}
+/* ExMenu01
+.menu {
+    background-color: blue;
+    padding: 10px;
+    padding-left: 15px;
+}
+
+a {
+    color: aliceblue;
+    margin-right: 10px;
+}*/
+>>>>>>> 51ead3b7145ed7221ed7e053c52168f7fe345ae2
